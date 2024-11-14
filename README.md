@@ -1,8 +1,7 @@
-### Hi there 👋
-I'm Lourrayni, an Information Technology student.
+#### Estudante de Tecnologia da Informação e estagiário de desenvolvimento mobile.
 
 ## 📲 Social
-[![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loufeliph_09?igsh=cTN1aHZqNWl3NjUy) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourrayni-dantas-28b76b269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/964164861208703086) [![WhatsApp]( 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584986364127) [![Gmail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourraynidantass@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourrayni-dantas-28b76b269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/964164861208703086)
 
 ## 👨🏽‍💻 Languages
 
