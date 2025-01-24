@@ -1,4 +1,4 @@
-#### Estudante de Tecnologia da Informação e estagiário de desenvolvimento mobile.
+#### Estudante de Tecnologia da Informação e estagiário de T.I.
 
 ## 📲 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourrayni-dantas-28b76b269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/964164861208703086)
