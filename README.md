@@ -7,6 +7,7 @@
 ## 🧠 Data & Machine Learning
 <div style="display: inline-block">
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
+  <img alt="langchain" src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
   <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
@@ -19,6 +20,7 @@
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
 </div>
 
 ## 🎨 Frontend & Mobile
