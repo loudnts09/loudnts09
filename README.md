@@ -11,14 +11,18 @@
   <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
   <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+  <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
+  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
+  <img alt="keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
   <img alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
 </div>
 
 ## ⚙️ Backend & Databases
 <div style="display: inline-block">
-  <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white">
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
+  <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi">
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
 </div>
@@ -27,9 +31,10 @@
 <div style="display: inline-block">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
   <img alt="vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D">
-  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 </div>
 
 ## 🛠️ Tools & Infrastructure
@@ -46,8 +51,6 @@
   <div>
     <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
     <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-    <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-    <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
     <img alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
   </div>
 
